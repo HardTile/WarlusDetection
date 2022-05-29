@@ -6,21 +6,18 @@ MVP приложения, использующее обученную нейро
 
 Архитектура модели выглядит следующим образом
 <h1 align="center">
-  <img src="assets/model.png" alt="Gazprombank">
+  <img src="assets/model.png" alt="Model">
 </h1>
 
-## Key features
+## Ключевые особенности
  - Обученная эффективная нейронная сеть
  - Отсутствие необходимости подключения к интернету
- - 
- - New ATM coordinates
+ - Быстрое распознавание, обработка 4к фото = ```6``` секунд
+ - Оконное приложение, позволяющее легко производить работу с нейронной сетью
+ - Возможность распознавания в ночное время суток
 
-## Result
-
-#### Savelovsky district
-<img src="assets/savelovsky_result.png" alt="Savelovsky">
-
-<img src="assets/savelovsky_highload_roads.png" alt="Savelovsky">
-
-<img src="assets/savelovsky_full_map.png" alt="Savelovsky">
-
+## Пример работы пайплайна для одной фотографии
+<img src="assets/1.png">
+<img src="assets/2.png">
+<img src="assets/3.png">
+<img src="assets/4.png">
