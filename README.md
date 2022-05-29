@@ -1,6 +1,6 @@
 # Цифровой прорыв. Кейс: ИИ на страже ненецких моржей
 <h1 align="center">
-  <img src="assets/logo.png">
+  <img src="assets/main-logo.png">
 </h1>
 
 ## Описание решения
