@@ -1,0 +1,11 @@
+random
+sys
+os
+imghdr
+PyQt5
+torch
+torch-vision
+numpy
+imageio
+matplotlib
+cv2
