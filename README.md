@@ -17,7 +17,7 @@ MVP приложения, использующее обученную нейро
  - Возможность распознавания в ночное время суток
 
 ## Пример работы пайплайна для одной фотографии
-<img src="assets/1.png">
-<img src="assets/2.png">
-<img src="assets/3.png">
-<img src="assets/4.png">
+<img src="assets/1.jpg">
+<img src="assets/2.jpg">
+<img src="assets/3.jpg">
+<img src="assets/4.jpg">
